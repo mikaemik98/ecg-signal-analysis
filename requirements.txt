@@ -1,0 +1,8 @@
+streamlit==1.44.0
+numpy
+pandas
+scikit-learn
+neurokit2
+wfdb
+matplotlib
+joblib
